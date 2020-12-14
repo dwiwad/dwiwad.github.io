@@ -33,6 +33,31 @@
   </url>
   
   <url>
+    <loc>/tag/covid-19/</loc>
+    <lastmod>2020-12-14T00:00:00-06:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tag/inequality/</loc>
+    <lastmod>2020-12-14T00:00:00-06:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/project/</loc>
+    <lastmod>2020-12-14T00:00:00-06:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/project/psypost_coverage_jesp/</loc>
+    <lastmod>2020-12-14T00:00:00-06:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/</loc>
+    <lastmod>2020-12-14T00:00:00-06:00</lastmod>
+  </url>
+  
+  <url>
     <loc>/publication-type/2/</loc>
     <lastmod>2020-11-15T00:00:00+00:00</lastmod>
   </url>
@@ -108,16 +133,6 @@
   </url>
   
   <url>
-    <loc>/project/</loc>
-    <lastmod>2020-04-22T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/tags/</loc>
-    <lastmod>2020-04-22T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
     <loc>/project/nhb_behindthepaper/</loc>
     <lastmod>2020-03-16T00:00:00+00:00</lastmod>
   </url>
@@ -174,11 +189,6 @@
   
   <url>
     <loc>/tag/economic-mobility/</loc>
-    <lastmod>2018-10-17T00:00:00-05:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/tag/inequality/</loc>
     <lastmod>2018-10-17T00:00:00-05:00</lastmod>
   </url>
   
