@@ -1,335 +1,212 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
-  
   <url>
-    <loc>/courses/example/example1/</loc>
+    <loc>https://dwiwad.github.io/courses/example/example1/</loc>
     <lastmod>2019-05-05T00:00:00+01:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/courses/example/</loc>
+  </url><url>
+    <loc>https://dwiwad.github.io/courses/example/</loc>
     <lastmod>2018-09-09T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/courses/example/example2/</loc>
+  </url><url>
+    <loc>https://dwiwad.github.io/courses/example/example2/</loc>
     <lastmod>2019-05-05T00:00:00+01:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/</loc>
+  </url><url>
+    <loc>https://dwiwad.github.io/</loc>
     <lastmod>2030-06-01T13:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/talk/example/</loc>
+  </url><url>
+    <loc>https://dwiwad.github.io/talk/example/</loc>
     <lastmod>2030-06-01T13:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/talk/</loc>
+  </url><url>
+    <loc>https://dwiwad.github.io/talk/</loc>
     <lastmod>2030-06-01T13:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/tag/covid-19/</loc>
-    <lastmod>2020-12-14T00:00:00-06:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/tag/inequality/</loc>
-    <lastmod>2020-12-14T00:00:00-06:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/project/</loc>
-    <lastmod>2020-12-14T00:00:00-06:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/project/psypost_coverage_jesp/</loc>
-    <lastmod>2020-12-14T00:00:00-06:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/tags/</loc>
-    <lastmod>2020-12-14T00:00:00-06:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/publication-type/2/</loc>
+  </url><url>
+    <loc>https://dwiwad.github.io/tag/data-viz/</loc>
+    <lastmod>2022-03-18T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://dwiwad.github.io/tag/linear-regression/</loc>
+    <lastmod>2022-03-18T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://dwiwad.github.io/tag/multilevel-modeling/</loc>
+    <lastmod>2022-03-18T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://dwiwad.github.io/tag/natural-language-processing/</loc>
+    <lastmod>2022-03-18T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://dwiwad.github.io/tag/panel-data/</loc>
+    <lastmod>2022-03-18T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://dwiwad.github.io/project/</loc>
+    <lastmod>2022-03-18T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://dwiwad.github.io/tags/</loc>
+    <lastmod>2022-03-18T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://dwiwad.github.io/tag/user-experience/</loc>
+    <lastmod>2022-03-18T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://dwiwad.github.io/project/tinder_ratings/</loc>
+    <lastmod>2022-03-18T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://dwiwad.github.io/tag/covid-19/</loc>
+    <lastmod>2020-12-14T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://dwiwad.github.io/tag/inequality/</loc>
+    <lastmod>2020-12-14T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://dwiwad.github.io/project/psypost_coverage_jesp/</loc>
+    <lastmod>2020-12-14T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://dwiwad.github.io/publication-type/2/</loc>
     <lastmod>2020-11-15T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/authors/</loc>
+  </url><url>
+    <loc>https://dwiwad.github.io/authors/</loc>
     <lastmod>2020-11-15T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/author/azim-shariff/</loc>
+  </url><url>
+    <loc>https://dwiwad.github.io/author/azim-shariff/</loc>
     <lastmod>2020-11-15T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/author/brett-mercier/</loc>
+  </url><url>
+    <loc>https://dwiwad.github.io/author/brett-mercier/</loc>
     <lastmod>2020-11-15T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/author/dylan-wiwad/</loc>
+  </url><url>
+    <loc>https://dwiwad.github.io/author/dylan-wiwad/</loc>
     <lastmod>2020-11-15T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/author/lara-b.-aknin/</loc>
+  </url><url>
+    <loc>https://dwiwad.github.io/author/lara-b.-aknin/</loc>
     <lastmod>2020-11-15T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/author/paul-k.-piff/</loc>
+  </url><url>
+    <loc>https://dwiwad.github.io/author/paul-k.-piff/</loc>
     <lastmod>2020-11-15T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/publication_types/</loc>
+  </url><url>
+    <loc>https://dwiwad.github.io/publication_types/</loc>
     <lastmod>2020-11-15T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/publication/</loc>
+  </url><url>
+    <loc>https://dwiwad.github.io/publication/</loc>
     <lastmod>2020-11-15T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/publication/jesp_2020/</loc>
+  </url><url>
+    <loc>https://dwiwad.github.io/publication/jesp_2020/</loc>
     <lastmod>2020-11-15T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/collaborators/</loc>
-    <lastmod>2020-05-05T00:00:00-05:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/publications_citestyle/</loc>
-    <lastmod>2020-05-05T00:00:00-05:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/research/</loc>
-    <lastmod>2020-05-05T00:00:00-05:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/teaching/</loc>
-    <lastmod>2020-05-05T00:00:00-05:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/project/latimes_covid/</loc>
+  </url><url>
+    <loc>https://dwiwad.github.io/collaborators/</loc>
+    <lastmod>2020-05-05T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://dwiwad.github.io/publications_citestyle/</loc>
+    <lastmod>2020-05-05T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://dwiwad.github.io/research/</loc>
+    <lastmod>2020-05-05T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://dwiwad.github.io/teaching/</loc>
+    <lastmod>2020-05-05T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://dwiwad.github.io/project/latimes_covid/</loc>
     <lastmod>2020-04-22T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/tag/popular-press/</loc>
+  </url><url>
+    <loc>https://dwiwad.github.io/tag/popular-press/</loc>
     <lastmod>2020-04-22T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/project/nhb_behindthepaper/</loc>
+  </url><url>
+    <loc>https://dwiwad.github.io/project/nhb_behindthepaper/</loc>
     <lastmod>2020-03-16T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/author/angela-r.-robinson/</loc>
+  </url><url>
+    <loc>https://dwiwad.github.io/author/angela-r.-robinson/</loc>
     <lastmod>2020-03-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/publication/nhb_2020/</loc>
+  </url><url>
+    <loc>https://dwiwad.github.io/publication/nhb_2020/</loc>
     <lastmod>2020-03-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/post/</loc>
+  </url><url>
+    <loc>https://dwiwad.github.io/post/</loc>
     <lastmod>2019-09-05T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/post/writing-technical-content/</loc>
+  </url><url>
+    <loc>https://dwiwad.github.io/post/writing-technical-content/</loc>
     <lastmod>2019-07-12T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/courses/</loc>
+  </url><url>
+    <loc>https://dwiwad.github.io/courses/</loc>
     <lastmod>2019-05-05T00:00:00+01:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/post/jupyter/</loc>
+  </url><url>
+    <loc>https://dwiwad.github.io/post/jupyter/</loc>
     <lastmod>2019-09-05T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/author/dylan-wiwad/</loc>
+  </url><url>
+    <loc>https://dwiwad.github.io/author/dylan-wiwad/</loc>
     <lastmod>2019-09-05T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/slides/</loc>
+  </url><url>
+    <loc>https://dwiwad.github.io/slides/</loc>
     <lastmod>2019-02-05T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/slides/example/</loc>
+  </url><url>
+    <loc>https://dwiwad.github.io/slides/example/</loc>
     <lastmod>2019-02-05T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/tag/blog/</loc>
-    <lastmod>2018-10-17T00:00:00-05:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/tag/economic-mobility/</loc>
-    <lastmod>2018-10-17T00:00:00-05:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/project/spsp_2015/</loc>
-    <lastmod>2018-10-17T00:00:00-05:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/tag/knn-regression/</loc>
-    <lastmod>2018-10-07T00:00:00-05:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/tag/machine-learning/</loc>
-    <lastmod>2018-10-07T00:00:00-05:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/project/car_prices/</loc>
-    <lastmod>2018-10-07T00:00:00-05:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/tag/python/</loc>
-    <lastmod>2018-10-07T00:00:00-05:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/tag/sklearn/</loc>
-    <lastmod>2018-10-07T00:00:00-05:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/tag/data-viz/</loc>
-    <lastmod>2018-10-05T00:00:00-05:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/project/mobility_happiness/</loc>
-    <lastmod>2018-10-05T00:00:00-05:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/tag/ggplot2/</loc>
-    <lastmod>2018-10-05T00:00:00-05:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/tag/multilevel-modeling/</loc>
-    <lastmod>2018-10-05T00:00:00-05:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/privacy/</loc>
-    <lastmod>2018-06-28T00:00:00+01:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/terms/</loc>
-    <lastmod>2018-06-28T00:00:00+01:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/tag/matplotlib/</loc>
-    <lastmod>2016-04-27T00:00:00-05:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/project/tdf_speed/</loc>
-    <lastmod>2016-04-27T00:00:00-05:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/tag/web-scraping/</loc>
-    <lastmod>2016-04-27T00:00:00-05:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/tag/academic/</loc>
+  </url><url>
+    <loc>https://dwiwad.github.io/tag/blog/</loc>
+    <lastmod>2018-10-17T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://dwiwad.github.io/tag/economic-mobility/</loc>
+    <lastmod>2018-10-17T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://dwiwad.github.io/project/spsp_2015/</loc>
+    <lastmod>2018-10-17T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://dwiwad.github.io/tag/knn-regression/</loc>
+    <lastmod>2018-10-07T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://dwiwad.github.io/project/car_prices/</loc>
+    <lastmod>2018-10-07T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://dwiwad.github.io/tag/machine-learning/</loc>
+    <lastmod>2018-10-07T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://dwiwad.github.io/tag/python/</loc>
+    <lastmod>2018-10-07T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://dwiwad.github.io/tag/sklearn/</loc>
+    <lastmod>2018-10-07T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://dwiwad.github.io/project/mobility_happiness/</loc>
+    <lastmod>2018-10-05T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://dwiwad.github.io/tag/ggplot2/</loc>
+    <lastmod>2018-10-05T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://dwiwad.github.io/tag/matplotlib/</loc>
+    <lastmod>2016-04-27T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://dwiwad.github.io/project/tdf_speed/</loc>
+    <lastmod>2016-04-27T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://dwiwad.github.io/tag/web-scraping/</loc>
+    <lastmod>2016-04-27T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://dwiwad.github.io/tag/academic/</loc>
     <lastmod>2019-04-17T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/post/getting-started/</loc>
+  </url><url>
+    <loc>https://dwiwad.github.io/post/getting-started/</loc>
     <lastmod>2019-04-17T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/categories/</loc>
+  </url><url>
+    <loc>https://dwiwad.github.io/categories/</loc>
     <lastmod>2019-04-17T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/category/demo/</loc>
+  </url><url>
+    <loc>https://dwiwad.github.io/category/demo/</loc>
     <lastmod>2019-04-17T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/author/%E5%90%B3%E6%81%A9%E9%81%94/</loc>
+  </url><url>
+    <loc>https://dwiwad.github.io/author/%E5%90%B3%E6%81%A9%E9%81%94/</loc>
     <lastmod>2019-04-17T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/tag/%E5%BC%80%E6%BA%90/</loc>
+  </url><url>
+    <loc>https://dwiwad.github.io/tag/%E5%BC%80%E6%BA%90/</loc>
     <lastmod>2019-04-17T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/category/%E6%95%99%E7%A8%8B/</loc>
+  </url><url>
+    <loc>https://dwiwad.github.io/category/%E6%95%99%E7%A8%8B/</loc>
     <lastmod>2019-04-17T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/post/2015-07-23-r-rmarkdown/</loc>
+  </url><url>
+    <loc>https://dwiwad.github.io/post/2015-07-23-r-rmarkdown/</loc>
+    <lastmod>2015-07-23T21:13:14-05:00</lastmod>
+  </url><url>
+    <loc>https://dwiwad.github.io/tag/plot/</loc>
+    <lastmod>2015-07-23T21:13:14-05:00</lastmod>
+  </url><url>
+    <loc>https://dwiwad.github.io/category/r/</loc>
+    <lastmod>2015-07-23T21:13:14-05:00</lastmod>
+  </url><url>
+    <loc>https://dwiwad.github.io/tag/r-markdown/</loc>
+    <lastmod>2015-07-23T21:13:14-05:00</lastmod>
+  </url><url>
+    <loc>https://dwiwad.github.io/tag/regression/</loc>
     <lastmod>2015-07-23T21:13:14-05:00</lastmod>
   </url>
-  
-  <url>
-    <loc>/tag/plot/</loc>
-    <lastmod>2015-07-23T21:13:14-05:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/category/r/</loc>
-    <lastmod>2015-07-23T21:13:14-05:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/tag/r-markdown/</loc>
-    <lastmod>2015-07-23T21:13:14-05:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/tag/regression/</loc>
-    <lastmod>2015-07-23T21:13:14-05:00</lastmod>
-  </url>
-  
 </urlset>
