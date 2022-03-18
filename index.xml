@@ -81,7 +81,15 @@
       <link>https://dwiwad.github.io/project/tinder_ratings/</link>
       <pubDate>Fri, 18 Mar 2022 00:00:00 +0000</pubDate>
       <guid>https://dwiwad.github.io/project/tinder_ratings/</guid>
-      <description>&lt;h2 id=&#34;executive-summary&#34;&gt;Executive Summary:&lt;/h2&gt;
+      <description>&lt;h2 id=&#34;highlights&#34;&gt;Highlights&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Tinder App Store ratings declined 42% Between 2013 and 2022 in two waves.&lt;/li&gt;
+&lt;li&gt;I analyzed 7.8 Million words left across 525,000 reviews to find out why.&lt;/li&gt;
+&lt;li&gt;First decline: related to to higher user complaints about Bugs and Spam (e.g., fake users).&lt;/li&gt;
+&lt;li&gt;Second decline: related only to higher complaints of Spam as the app became more stable&lt;/li&gt;
+&lt;li&gt;Tinder should enact more stringent controls on fake users to increase user engagement, sentiment, and retention&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;executive-summary&#34;&gt;Executive Summary:&lt;/h2&gt;
 &lt;p&gt;Between 2013 and 2022 Tinder app ratings on the Google Play store have fallen 42% From a peak of 4.05 (out of 5) in October 2014 to 2.35 (out of 5) as of February 2022. This occurred over two steady declines; ratings declined between July 16, 2013 and September 24, 2015, recovered partially, and then declined again between October 14, 2018 and January 13, 2021. To explore why, I analyzed 525,294 written reviews (approximately 7.8 million words) using Natural Language Processing techniques (e.g., term-document frequencies, sentiment analysis, and word embeddings) and ordinary piecewise and linear regression. I find that the eight-year decline in Tinder ratings coincides with 50% increase in negative review content (compared with only a 41% decrease in positive review content). More specifically, complaints of both ‘fake’ users (e.g., bots, scammers, etc) and bugs (e.g., crashing, freezing, etc) predict Tinder’s initial ratings decline. However, only complaints surrounding fake users—but not bugs—predicts Tinder’s second more recent decline in ratings. These data suggest that, while they have sufficiently stabilized the app, the organization still needs to enact more stringent controls on ‘fake’ users in order to increase engagement, usage, sentiment, and retention. All R code for this project can be found 
 &lt;a href=&#34;https://github.com/dwiwad/Tinder_Trends&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;here&lt;/a&gt;.&lt;/p&gt;
 &lt;h2 id=&#34;context&#34;&gt;Context&lt;/h2&gt;
